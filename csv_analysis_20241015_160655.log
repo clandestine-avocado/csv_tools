@@ -1,0 +1,11 @@
+File: C:\Users\kroy2\Documents\python\projects\csv_tools\test_csv_with_errors_modified.csv
+Total number of records: 52
+Has header: False
+Delimiter: ','
+Quote character: '"'
+Escape character: 'None'
+
+Potential issues:
+- Inconsistent number of fields across rows
+- Line returns found within fields
+- Leading or trailing whitespace found in some fields

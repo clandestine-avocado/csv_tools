@@ -1,0 +1,11 @@
+File: C:\Users\kroy2\Documents\python\projects\csv_tools\test_csv_with_errors_modified.csv
+Total number of records: 52
+Has header: False
+Delimiter: ','
+Quote character: '"'
+Escape character: 'None'
+
+Potential issues:
+- Inconsistent number of fields in rows: [53]
+- Line returns found within fields in rows: [3, 14, 15, 23, 26, 28, 30, 31, 33, 35, 40, 45, 50, 52]
+- Leading or trailing whitespace found in rows: [3, 5, 6, 7, 8, 9, 14, 15, 17, 18, 23, 25, 26, 28, 29, 30, 31, 33, 35, 36, 38, 40, 41, 45, 46, 47, 50, 52, 53]

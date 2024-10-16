@@ -1,0 +1,69 @@
+ID,Name,Age,Email,City,Registration Date
+"1
+","Smith, John",30,john@example.com,New York,2024-01-01
+2,Jane Doe,25,jane@example.com,Los Angeles,2024-01-02
+\ 3 ,"Brown, Robert",,robert@example.com,"San Francisco, CA",\2024-01-03
+4,Alice Johnson,28,alice@example.com,Chicago, 2024-01-04 
+5,"Williams, David", 35 ,david@example.com,Houston,2024-01-05
+6,Emma Wilson,31,emma@example.com, Phoenix ,2024-01-06
+ 7 ,Michael Lee,29,michael@example.com,Philadelphia,2024-01-07
+8,Sarah Davis,33,sarah@example.com,Dallas,\2024-01-08
+9,Thomas Anderson,27,thomas@example.com,San Diego,2024-01-09
+10,"Clark, Emily",32,emily@example.com,San Jose,2024-01-10
+11,James Wilson,34,james@example.com,Austin,2024-01-11
+12,Olivia Martin,"26
+",olivia@example.com,Jacksonville,"2024-01-12
+"
+13,"Daniel Thompson
+",30,daniel@example.com,San Francisco, 2024-01-13 
+14,"Taylor, Sophia",29,sophia@example.com,Indianapolis,2024-01-14
+15,Christopher Lee,31, christopher@example.com ,Columbus,2024-01-15
+16, Ava White ,28,ava@example.com,Fort Worth,2024-01-16
+17,Matthew Brown,33,matthew@example.com,Charlotte,2024-01-17
+18,Emma Harris,27,emma.harris@example.com,Seattle,2024-01-18
+19,Andrew Clark,35,andrew@example.com,Denver,2024-01-19
+20,Isabella King,30,isabella@example.com,Washington,2024-01-20
+21,"Johnson, William",32,william@example.com,Nashville,"2024-01-21
+"
+22,Mia Scott,29,mia@example.com,El Paso,2024-01-22
+23, Ethan Green ,31,ethan@example.com,Boston,2024-01-23
+24,"Sophie Turner
+",28,sophie@example.com,Portland, 2024-01-24 
+25,"Benjamin, Adams",34,benjamin@example.com,Las Vegas,2024-01-25
+26," Charlotte Hill 
+",26,charlotte@example.com,"Oklahoma City
+",2024-01-26
+27,Joseph Young, 33 ,joseph@example.com,Detroit, 2024-01-27 
+28,"Amelia, Parker
+",30,amelia@example.com,"Memphis
+",2024-01-28
+29,Samuel Phillips,27, samuel@example.com ,Louisville,"2024-01-29
+"
+30,Victoria Reed,32,victoria@example.com,Baltimore,2024-01-30
+31,David Cooper,29,david@example.com,Milwaukee,"2024-01-31
+"
+32,Grace Morgan,31,grace@example.com,Albuquerque,2024-02-01
+33,Ryan Murphy, 28 ,ryan@example.com,"Tucson
+",2024-02-02
+34,Lily Baker,33, lily@example.com ,Fresno,2024-02-03
+35,Nathan Collins,30,nathan@example.com,Sacramento,2024-02-04
+ 36 ,Zoe Edwards,27,zoe@example.com,Kansas City,2024-02-05
+37,Alexander Ward,34,alexander@example.com,Miami,2024-02-06
+38,Hannah Morris,31,"hannah@example.com
+",Raleigh,2024-02-07
+39," Carter, Evelyn ",29,evelyn@example.com,Omaha,2024-02-08
+40,Christopher Reed,32,christopher.reed@example.com,Oakland,2024-02-09
+41,Aria Wood,28,aria@example.com,Minneapolis,2024-02-10
+42,Liam Foster,30,liam@example.com,Tulsa,2024-02-11
+43,"Chloe Price
+",33,chloe@example.com, Wichita ,2024-02-12
+44,Jonathan Hughes,31, jonathan@example.com ,New Orleans,2024-02-13
+45,Scarlett Bennett,27, scarlett@example.com ,Arlington,2024-02-14
+46,Isaac Cox,34,isaac@example.com,Tampa,2024-02-15
+47,Audrey Simmons,29,audrey@example.com,Bakersfield,2024-02-16
+48,"Dylan, Patel",32,"dylan@example.com
+",Anaheim,2024-02-17
+49,Leah Griffin,30,leah@example.com,Honolulu,2024-02-18
+50,"Owen Harrison
+",28,owen@example.com,Riverside,2024-02-19
+51,N/A,Max Power,Forty-Two,max.power@example.com,"Springfield, Anystate", 2024-02-30 
